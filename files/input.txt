@@ -1,0 +1,4 @@
+Field;Type;Null;Key;Default;Extra
+user_id;varchar(50);NO;PRI;\N;
+alarm_code;varchar(50);NO;PRI;\N;
+reg_date;datetime;YES;;current_timestamp();
